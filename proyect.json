@@ -1,0 +1,51 @@
+[
+    
+    {
+      "id": 1,
+      "nombre": "Suavisante Suavitel",
+      "precio": 210,
+      "stock": 30,
+      "count": 0
+    },
+
+    {
+      "id": 2,  
+      "nombre": "Detergente Liquido Persil",
+        "precio": 245,
+        "stock": 30,
+        "count": 0
+      },
+
+      {
+        "id": 3,
+        "nombre": "Detergente Members Mark",
+        "precio": 218,
+        "stock": 30,
+        "count": 0
+      },
+
+      {
+        "id": 4,
+        "nombre": "Detergente Mas color para ropa oscura",
+        "precio": 245,
+        "stock": 30,
+        "count": 0
+      },
+
+      {
+        "id": 5,
+        "nombre": "Lava trastes liquido Salvo",
+        "precio": 103,
+        "stock": 30,
+        "count": 0
+      },
+
+      {
+        "id": 6,
+        "nombre": "Multi limpiador desinfectante Pinol",
+        "precio": 192,
+        "stock": 30,
+        "count": 0
+      }
+
+]
